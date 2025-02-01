@@ -30,6 +30,16 @@ npm install  # or yarn install
 ```
 
 
+## **📺 Live Demo & Transaction Examples**  
+🎥 **Demo Video**: [https://www.youtube.com/watch?v=ShK1tgxQdg4](https://www.youtube.com/watch?v=ShK1tgxQdg4)  
+
+Here’s a real example of token creation and instant batch buying with **20 wallets**:  
+
+- **Jito Bundle ID**: `706e57b8f79e6a8160596922435d4842525575d5cfedc8484f00909a24bb19c9`  
+- **Token Address**: [`3fdoNgW1shisnHervUFxiXmZgeeCnFrjwYW9HqHsNnGS`](https://solscan.io/token/3fdoNgW1shisnHervUFxiXmZgeeCnFrjwYW9HqHsNnGS)  
+- **Main Wallet**: `moatXKJCg9x1zfJ785Rb6i3Xf2sWkbfRfBwKxK7TcoC`  
+
+🔎 Check transaction status and interact with multiple wallets for verification.  
 
 ## **📞 Contact**  
 📩 **Telegram**: [@ploopix](https://t.me/ploopix)  
